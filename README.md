@@ -30,10 +30,12 @@ Here are some highlighted works from my repositories and organizations:
 
 ---
 
-## 📊 Current Focus
-- Expanding **Citymaker** tools with modular architecture and enhanced GIS visualizations.  
-- Integrating **urban datasets** into interactive dashboards.  
-- Building reproducible workflows for spatial data analysis.
+## 📫 Connect with Me
+<p>
+  <a href="mailto:massoud.ghaderian@outlook.com"><img src="https://img.shields.io/badge/Email-massoud.ghaderian%40outlook.com-blue?style=flat-square" /></a>
+  <a href="https://www.linkedin.com/in/massoud-ghaderian"><img src="https://img.shields.io/badge/LinkedIn-Massoud%20Ghaderian-blue?style=flat-square&logo=linkedin" /></a>
+  <a href="https://github.com/MassoudGhaderian"><img src="https://img.shields.io/badge/GitHub-MassoudGhaderian-black?style=flat-square&logo=github" /></a>
+</p>
 
 ---
 
