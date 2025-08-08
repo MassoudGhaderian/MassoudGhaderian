@@ -6,59 +6,27 @@
 ---
 
 ## 🌍 About Me
-I’m an **urban data enthusiast** and **GIS developer** passionate about transforming **geospatial** and **urban** datasets into meaningful insights, tools, and interactive maps.  
+I’m an urban data enthusiast and GIS developer passionate about transforming **geospatial** and **urban** datasets into meaningful insights, tools, and interactive maps.  
 My work blends **GIS**, **web mapping**, and **data analysis** to support urban planning, facility management, and spatial decision-making.
 
 ---
 
 ## 🛠 Skills & Technologies
-
-<p align="center">
-  <img src="https://img.shields.io/badge/GIS-Leaflet.js-green?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/GIS-MapLibre-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Data%20Viz-D3.js-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Server-GeoServer-lightgrey?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Database-PostGIS-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Analysis-Python-yellow?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Analysis-R-red?style=for-the-badge" />
-</p>
+- **GIS & Mapping:** Leaflet.js, MapLibre, D3.js, ArcGIS, QGIS  
+- **Data Services:** GeoServer (WMS/WFS), PostGIS, PDOK APIs  
+- **Data Analysis:** Python (Pandas, GeoPandas), R, Turf.js  
+- **Urban Data Sources:** BAG, BGT, CBS, OpenStreetMap  
+- **Other Tools:** GitHub Actions (CI/CD), HTML/CSS/JS, Proj4Leaflet
 
 ---
 
 ## 📌 Featured Projects
+Here are some highlighted works from my repositories and organizations:
 
-### 🔹 Citymaker Toolbox
-> A suite of urban analysis tools for planning, energy, area mapping, and facility management.
-
-<p align="center">
-  <a href="https://github.com/citymaker-toolbox/analysis-tool">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=citymaker-toolbox&repo=analysis-tool&theme=default" />
-  </a>
-  <a href="https://github.com/citymaker-toolbox/energy-tool">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=citymaker-toolbox&repo=energy-tool&theme=default" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/citymaker-toolbox/areas-tool">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=citymaker-toolbox&repo=areas-tool&theme=default" />
-  </a>
-  <a href="https://github.com/citymaker-toolbox/facilities-tool">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=citymaker-toolbox&repo=facilities-tool&theme=default" />
-  </a>
-</p>
-
----
-
-### 🌳 Tree Crown Delineation NL
-> End-to-end workflow in R + PostGIS for nationwide tree crown mapping.  
-[🔗 View Repository](https://github.com/MassoudGhaderian/tree-crown-delineation)
-
----
-
-### 🕒 Isochrone API
-> Self-hosted travel time API for urban accessibility analysis.  
-[🔗 View Repository](https://github.com/MassoudGhaderian/isochrone-api)
+- [**Citymaker Toolbox**](https://github.com/citymaker-toolbox) – Suite of urban analysis tools: Analysis Tool, Energy Tool, Area Tool, and Facilities Tool.  
+- **Tree Crown Delineation NL** – End-to-end pipeline in R + PostGIS for nationwide tree crown mapping.  
+- **Isochrone API** – Self-hosted travel time API for urban accessibility analysis.  
+- **BAG/BGT Processing Tools** – Scripts and web tools to process Dutch spatial datasets.
 
 ---
 
@@ -70,11 +38,10 @@ My work blends **GIS**, **web mapping**, and **data analysis** to support urban 
 ---
 
 ## 📫 Connect with Me
-<p>
-  <a href="mailto:massoud.ghaderian@outlook.com"><img src="https://img.shields.io/badge/Email-massoud.ghaderian%40outlook.com-blue?style=flat-square" /></a>
-  <a href="https://www.linkedin.com/in/massoud-ghaderian"><img src="https://img.shields.io/badge/LinkedIn-Massoud%20Ghaderian-blue?style=flat-square&logo=linkedin" /></a>
-  <a href="https://github.com/MassoudGhaderian"><img src="https://img.shields.io/badge/GitHub-MassoudGhaderian-black?style=flat-square&logo=github" /></a>
-</p>
+- 📍 Netherlands  
+- ✉️ [massoud.ghaderian@outlook.com](mailto:massoud.ghaderian@outlook.com)  
+- 🌐 [LinkedIn](https://www.linkedin.com/in/massoud-ghaderian) *(add your real link)*  
+- 🗺️ [GitHub Profile](https://github.com/MassoudGhaderian)
 
 ---
 
