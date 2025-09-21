@@ -20,14 +20,6 @@ My work blends **GIS**, **web mapping**, and **data analysis** to support urban 
 
 ---
 
-## 📌 Featured Projects
-Here are some highlighted works from my repositories and organizations:
-
-- [**Citymaker Toolbox**](https://github.com/citymaker-toolbox) – Suite of urban analysis tools: Analysis Tool, Energy Tool, Area Tool, and Facilities Tool.  
-- **Tree Crown Delineation NL** – End-to-end pipeline in R + PostGIS for nationwide tree crown mapping.  
-- **Isochrone API** – Self-hosted travel time API for urban accessibility analysis.  
-- **BAG/BGT Processing Tools** – Scripts and web tools to process Dutch spatial datasets.
-
 ---
 
 ## 📫 Connect with Me
